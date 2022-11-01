@@ -1,5 +1,6 @@
 # Maintainer: Koragg <31944041+KoraggKnightWolf@users.noreply.github.com>
-# Author: Hugo Posnic <huluti@manjaro.org>
+# Contributor: Bernhard Landauer <oberon@manjaro.org>
+# Contributor: Hugo Posnic <huluti@manjaro.org>
 
 pkgname=archlinux-hello
 pkgver=0.8.0
